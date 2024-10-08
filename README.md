@@ -3,4 +3,4 @@ study purpose
 
 hello everyone.
 <br>
-this respiraory for is for study purpose.
+this respiratory for is for study purpose.
